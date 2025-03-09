@@ -40,12 +40,8 @@ CT-ThreatGraph leverages a powerful tech stack combining **graph analytics, mach
 
 ### **4. Backend & Query Processing**
 - **Hybrid Query Processing Engine** – A combination of **NetworkX (local computation) and AQL (database queries)** to provide optimized results.
-- **Python (FastAPI / Flask)** – For handling API requests.
 - **LangChain** – For orchestrating AI-powered query execution.
 
-### **5. UI & Visualization**
-- **Streamlit** – For building an interactive web-based UI.
-- **D3.js / Plotly** – To create real-time network graphs and 3D node-link diagrams.
 
 ---
 
